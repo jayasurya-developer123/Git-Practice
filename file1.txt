@@ -1,1 +1,2 @@
-Welcome to git for how to push file in an github
+Welcome to git for how to push file in an GitHub
+about java
